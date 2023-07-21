@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\bin\Debug\Assignment13BasicsOFc#.exe.config
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\bin\Debug\Assignment13BasicsOFc#.exe
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\bin\Debug\Assignment13BasicsOFc#.pdb
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\obj\Debug\Assignment13BasicsOFc#.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\obj\Debug\Assignment13BasicsOFc#.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\obj\Debug\Assignment13BasicsOFc#.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\obj\Debug\Assignment13BasicsOFc#.exe
+D:\Mphasis\.net\Assignment13BasicsOFc#\Assignment13BasicsOFc#\obj\Debug\Assignment13BasicsOFc#.pdb
